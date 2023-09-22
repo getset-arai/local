@@ -12,7 +12,7 @@
 ### db
 - MySQL
 - localhost:3306でアクセス可能（ymlにユーザ情報記載）
-## Azure Archive Storage(=Azure Blob Storage内のアクセス層をarvhiveにしたもの)
+## Azure Archive Storage(=Azure Blob Storage内のアクセス層をarchiveにしたもの)
 ### azurite
 - Azure Storageのローカルエミュレータ（Azure Blob Storageも含まれる）
 - アカウント名（エミュレータ固定）: `devstoreaccount1`
