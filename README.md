@@ -3,6 +3,7 @@
 - アプリサーバ
 - Laravel 10
 - 内部的にapp:9000でリッスン
+- DockerfileのCOPYコマンドとdocker composeのvolumes機能の兼ね合いの問題でホストマシンでの初回起動時のみこのコンテナ内でinit.shを実行する
 ### web
 - webサーバ
 - nginx 
